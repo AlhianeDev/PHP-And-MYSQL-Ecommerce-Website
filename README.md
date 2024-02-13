@@ -19,12 +19,12 @@ This repository contains the source code for a PHP and MySQL-based eCommerce web
 
 ## Installation and Setup
 
-* Clone the repository: git clone https://github.com/your-username/repository-name.git
+* Clone the repository: git clone https://github.com/AlhianeDev/PHP-And-MYSQL-Ecommerce-Website.git
 * Create a MySQL database and import the provided SQL file.
 * Update the database credentials in the config.php file.
 * Run the project on a local server (e.g., Apache, Nginx).
 
-## Installation and Setup
+## Author
 
 * Alhiane Lahcen (Gmail): [makclaaax@gmail.com](makclaaax@gmail.com)
 * Alhiane Lahcen (LinkedIn): [LinkedIn](https://www.linkedin.com/in/lahcen-alhiane-326ba82a9/)
